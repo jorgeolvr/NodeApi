@@ -1,0 +1,8 @@
+start server: npm run dev
+pull mongo: docker pull mongo
+create docker machine: docker run --name mongodb -p 27017:27017 -d mongo
+start docker machine: docker-machine start default
+stop docker machine: docker-machine stop default
+start docker container: docker container start "id"
+stop docker container: docker container stop "id"
+verify machine running: docker ps
