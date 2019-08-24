@@ -2,10 +2,10 @@
 Exemplo de api em node usando MongoDB
 
 # Comandos
-npm run dev
-docker pull mongo
-docker run --name mongodb -p 27017:27017 -d mongo
-docker ps
-docker-machine start default
-docker container start "id"
-docker container stop "id"
+npm run dev<br>
+docker pull mongo<br>
+docker run --name mongodb -p 27017:27017 -d mongo<br>
+docker ps<br>
+docker-machine start default<br>
+docker container start "id"<br>
+docker container stop "id"<br>
