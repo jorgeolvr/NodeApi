@@ -1,5 +1,5 @@
 # node-api
-Exemplo de api em node usando MongoDB
+Exemplo de api em node.js usando MongoDB
 
 # Comandos
 npm run dev<br>
