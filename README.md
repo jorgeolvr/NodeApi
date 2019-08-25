@@ -1,7 +1,7 @@
 # node-api
 Exemplo de api em node.js usando MongoDB
 
-# Comandos
+# comandos
 npm run dev<br>
 docker pull mongo<br>
 docker run --name mongodb -p 27017:27017 -d mongo<br>
