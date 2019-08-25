@@ -1,5 +1,5 @@
 # node-api
-Exemplo de api em node.js usando MongoDB e Docker
+Exemplo de api em node.js usando mongo e docker
 
 # comandos
 
